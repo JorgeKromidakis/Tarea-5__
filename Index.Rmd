@@ -53,7 +53,7 @@ retornos_acum_activos %>%
 
 
 #testnormalidad
-
+ 
 
 
 
